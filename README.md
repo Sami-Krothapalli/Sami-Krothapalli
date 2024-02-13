@@ -1,5 +1,3 @@
-# Profile_Readme
-
 <h1 align="center">Hi 👋, I'm Sami Krothapalli</h1>
 <h3 align="center">I'm a Statistics and Computational Mathematics student at the University of Waterloo, with a passion for data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.</h3>
 
