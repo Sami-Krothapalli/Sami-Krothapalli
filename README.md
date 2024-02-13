@@ -4,7 +4,7 @@
 <h3 align="center">Student at the University of Waterloo</h3>
 <p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, with a passion for data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdouseraya&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
 
 - 🔭 I’m currently working on Smartletter an automated cover letter generator.
 
@@ -53,15 +53,15 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdouseraya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sami-Krothapalli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdouseraya&show_icons=true&locale=en&layout=compact" alt="Sami-Krothapalli" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-Krothapalli&show_icons=true&locale=en&layout=compact" alt="Sami-Krothapalli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdouseraya&show_icons=true&locale=en" alt="Sami-Krothapalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-Krothapalli&show_icons=true&locale=en" alt="Sami-Krothapalli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&" alt="Sami-Krothapalli" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-Krothapalli&" alt="Sami-Krothapalli" /></p>-->
