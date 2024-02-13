@@ -15,7 +15,9 @@
 
 <h3>Projects</h3>
 -  [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
+
 -  [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
+
 -  [Interactive Web Demo](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
 
 
