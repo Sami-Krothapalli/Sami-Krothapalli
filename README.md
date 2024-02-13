@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sami Krothapalli</h1>
 <h3 align="center">I'm a Statistics and Computational Mathematics student at the University of Waterloo, with a passion for data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.</h3>
 
-- 🔭 I’m currently working on Smartletter an automated cover letter generator [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
+- 🔭 I’m currently working on Smartletter an automated cover letter generator.
 
 - 🌱 I’m currently learning Langchain **Data Types and Structures, Applied Linear Models, Stochastic Processes 1, Computational Statistics and Data Analysis**
 
-- 👯 I’m looking to collaborate on any projects or hackathons that deem interesting to me [Interactive Web Demo](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
+- 👯 I’m looking to collaborate on any projects or hackathons that deem interesting to me
 
-- 🤝 I’m looking for help with learning about ML concepts, Devops, Cloud Services [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
+- 🤝 I’m looking for help with learning about ML concepts, Devops, Cloud Services 
 
 - 💬 Ask me about **Cybersecurity Club, Data Science Club, WatAi, Sociology Club, Cybersecurity Privacy Institution Member, Engineering without Borders**
 
 - 📫 How to reach me **2krothapasam@gmail.com**
+
+<h3>Projects</h3>
+-  [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
+-  [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
+-  [Interactive Web Demo](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
