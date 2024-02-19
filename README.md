@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
 
-- 🔭 I’m currently working on Smartletter an automated cover letter generator.
+- 🔭 I’m currently working on Smartletter, an automated cover letter generator.
 
-- 🌱 I’m currently learning **Langchain**, **Data Types and Structures, Applied Linear Models, Stochastic Processes 1, Computational Statistics and Data Analysis**
+- 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms, Computational Statistics and Data Analysis**
 
 - 👯 I’m looking to collaborate on any projects or hackathons that deem interesting to me
 
 - 🤝 I’m looking for help with learning about ML concepts, Devops, Cloud Services 
 
-- 💬 Ask me about **Cybersecurity Club, Data Science Club, WatAi, Sociology Club, Cybersecurity Privacy Institution Member, Engineering without Borders**
+- 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development**
 
 - 📫 How to reach me **2krothapasam@gmail.com**
 
