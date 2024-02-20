@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Smartletter, an automated cover letter generator.
 
-- 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms, Computational Statistics and Data Analysis**
+- 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms**, **Computational Statistics and Data Analysis**
 
 - 👯 I’m looking to collaborate on any projects or hackathons that deem interesting to me
 
