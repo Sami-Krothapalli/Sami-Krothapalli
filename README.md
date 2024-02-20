@@ -1,4 +1,4 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+![MasterHead](https://raw.githubusercontent.com/Sami-Krothapalli/Sami-Krothapalli/main/DALL%C2%B7E%202024-02-19%2018.59.45%20-%20Design%20a%20cool%20banner%20for%20GitHub%20showcasing%20interests%20in%20web%20development%2C%20machine%20learning%20(ML)%2C%20and%20cybersecurity%20for%20Sami%20Krothapalli.%20Include%20iconic.webp)
 
 <h1 align="center">Hi 👋, I'm Sami Krothapalli</h1>
 <h3 align="center">Student at the University of Waterloo</h3>
