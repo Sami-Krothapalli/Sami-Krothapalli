@@ -12,7 +12,7 @@
 <h3 align="center">Student at the University of Waterloo</h3>
 <p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, with a passion for data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
 
 - 🔭 I’m currently working on Smartletter, an automated cover letter generator.
 
