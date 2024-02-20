@@ -28,7 +28,7 @@
 
 **I like my coffee how I like my code: Constantly refilling and refactoring** 
 
-<h3>Projects</h3>
+<h3>What I have been up to:</h3>
 
 -  [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
 
