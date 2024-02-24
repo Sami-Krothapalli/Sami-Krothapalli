@@ -39,9 +39,9 @@
 
 <h2 align="Center"> Connect with me: </h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samikrothapalli/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samikrothapalli/" height="30" width="40" /></a>   <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>  <a href="https://twitter.com/Sami_Kpallii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
 </p>
+
 
 
 ### Languages:
@@ -95,3 +95,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-Krothapalli&show_icons=true&locale=en" alt="Sami-Krothapalli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-Krothapalli&" alt="Sami-Krothapalli" /></p>-->
+
