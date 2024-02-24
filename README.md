@@ -37,16 +37,14 @@
 -  [Interactive Web Demo](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="Center"> Connect with me: </h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samikrothapalli/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
 </p>
 
-### Frameworks, Libraries, and Tools:
 
 ### Languages:
-
 | Python | R | JavaScript | C# | Java | HTML/CSS | GO |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/> |
