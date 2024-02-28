@@ -10,7 +10,7 @@
 
 ---
 <h3 align="center">Student at the University of Waterloo</h3>
-<p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, with a passion for data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
+<p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo passionate about data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
 
@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on any projects or hackathons that deem interesting to me
 
-- 🤝 I’m looking for help with learning about ML concepts, Devops, Cloud Services 
+- 🤝 I’m looking for help with learning about ML concepts, DevOps, Cloud Services
 
 - 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development**
 
@@ -34,7 +34,7 @@
 
 -  [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
 
--  [Interactive Web Demo](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
+-  [Network Anomaly Detection](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
 
 
 <h2 align="Center"> Connect with me: </h2>
