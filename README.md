@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with learning about ML concepts, DevOps, Cloud Services
 
-- 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development**
+- 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development
 
 - 📫 How to reach me **2krothapasam@gmail.com**
 
