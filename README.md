@@ -24,7 +24,7 @@
 
 - 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development
 
-- 📫 How to reach me **2krothapasam@gmail.com**
+- 📫 How to reach me **2krothapasam@gmail.com** or **skrothap@uwaterloo.ca**
 
 **I like my coffee how I like my code: Constantly refilling and refactoring** 
 
