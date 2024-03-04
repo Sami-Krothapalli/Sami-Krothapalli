@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms**, **Computational Statistics and Data Analysis**
 
-- 👯 I’m looking to collaborate on any projects or hackathons that deem interesting to me
+- 👯 I’m looking to collaborate on any projects or hackathons that I deem interesting to me
 
 - 🤝 I’m looking for help with learning about ML concepts, DevOps, Cloud Services
 
