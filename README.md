@@ -39,29 +39,32 @@
 
 <h2 align="Center"> Connect with me: </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samikrothapalli/" height="30" width="40" /></a>   <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>  <a href="https://twitter.com/Sami_Kpallii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>   <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank">  <a href="https://twitter.com/Sami_Kpallii" target="blank"><img src="https://skillicons.dev/icons?i=twitter"  alt="https://twitter.com/Sami_Kpallii" /></a>
 </p>
 
-
+<h2 align="Center"> Also Checkout: </h2>
+<p align="center">
+<a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
+</p>
 
 ### Languages:
 | Python | R | JavaScript | C# | Java | HTML/CSS | GO |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/> |
+| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) |
 
 
 ### Libraries & Frameworks:
 
 | TensorFlow | Langchain | NumPy | Pandas | Scikit-learn | .NET CORE | Spring | Bootstrap | Chart.js |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> | <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Langchain" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET CORE" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> | <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/> |
+|[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | [![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/> |
 
 
 ### Developer Tools:
 
-| PostgreSQL | Git | Jira | Confluence | GCP | Docker | Postman |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> |
+| PostgreSQL | Git | Jira | Confluence | GCP | Docker | Postman | Latex | Maven | Vercel
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="40" height="40"/> | [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
 
 
 
