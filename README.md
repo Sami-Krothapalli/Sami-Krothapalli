@@ -37,12 +37,12 @@
 -  [Network Anomaly Detection](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
 
 
-<h2 align="Center"> Connect with me: </h2>
+<h2 align="Center"> 🤝 Connect with me: </h2>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>   <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank">  <a href="https://twitter.com/Sami_Kpallii" target="blank"><img src="https://skillicons.dev/icons?i=twitter"  alt="https://twitter.com/Sami_Kpallii" /></a>
 </p>
 
-<h2 align="Center"> Also Checkout: </h2>
+<h2 align="Center"> Other Accounts </h2>
 <p align="center">
 <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
 </p>
