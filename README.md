@@ -1,18 +1,23 @@
-![MasterHead](https://github.com/Sami-Krothapalli/Sami-Krothapalli/blob/main/Banner.jpg?raw=true)
+<p align="Center">
+<img  alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
+</p>
+
 
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mode&size=23&pause=1000&color=6DA4C7&background=00745003&center=true&vCenter=true&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sami+Krothapalli;I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Aspiring++Developer%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Aspiring++Data+Scientist++%F0%9F%93%8A;Creatively+Building+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mode&size=23&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sami+Krothapalli;I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Aspiring++Developer%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Aspiring++Data+Scientist++%F0%9F%93%8A;Creatively+Building+Solutions)](https://git.io/typing-svg)
   
 </div>
 
 
 ---
-<h3 align="center">Student at the University of Waterloo</h3>
+<h3 align="center">Student at the University of Waterloo</h3>   
 <p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, passionate about data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-Krothapalli" /> </p>
+<p align="Center"><img src="https://www.codedex.io/api/petStatus?user=Kpalli" width="50px"/>   <img src="https://visitcount.itsvg.in/api?id=Sami-Krothapalli&label=Profile%20Views&color=11&icon=0&pretty=true" /><img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
+
+
 
 - 🔭 I’m currently working on Smartletter, an automated cover letter generator.
 
@@ -37,14 +42,8 @@
 -  [Network Anomaly Detection](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
 
 
-<h2 align="Center"> 🤝 Connect with me: </h2>
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>   <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank">  <a href="https://twitter.com/Sami_Kpallii" target="blank"><img src="https://skillicons.dev/icons?i=twitter"  alt="https://twitter.com/Sami_Kpallii" /></a>
-</p>
-
-<h2 align="Center"> Other Accounts </h2>
-<p align="center">
-<a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
+<p align="Center">
+  <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=2" />
 </p>
 
 ### Languages:
@@ -69,28 +68,34 @@
 
 
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats 
 
 <!--- stats & Trophy (start) -->
 
 <p align="left">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Sami-Krothapalli&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Sami-Krothapalli&theme=aura_dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-Krothapalli&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-Krothapalli&theme=aura_dark&hide_border=false" /> 
 </td>
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sami-Krothapalli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sami-Krothapalli&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 </tr>
 </table>
+
+<p align="Center">
+  <a href="https://github.com/Sami-Krothapalli">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sami-Krothapalli&theme=moonlight" alt="Sami Krothapalli's GitHub Contribution"/>
+  </a>
+</p>
+
+
 <!--- stats (end) -->
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-Krothapalli&show_icons=true&locale=en&layout=compact" alt="Sami-Krothapalli" /></p>
@@ -98,4 +103,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-Krothapalli&show_icons=true&locale=en" alt="Sami-Krothapalli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-Krothapalli&" alt="Sami-Krothapalli" /></p>-->
+<!--- <h2 align="Center"> 🤝 Connect with me: </h2>
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/samikrothapalli/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>   <a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank">  <a href="https://twitter.com/Sami_Kpallii" target="blank"><img src="https://skillicons.dev/icons?i=twitter"  alt="https://twitter.com/Sami_Kpallii" /></a>
+</p>
 
+<h2 align="Center"> Other Accounts </h2>
+<p align="center">
+<a href="https://kaggle.com/https://www.kaggle.com/samikrothapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samikrothapalli" height="30" width="40" /></a>
+</p>
