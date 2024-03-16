@@ -1,7 +1,8 @@
-<p align="Center">
-<img  alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
-</p>
 
+
+<p align="Center">
+  <img src="theroom.jpg" alt="room" width="100%"/>
+</p>
 
 
 <div align="center">
@@ -97,7 +98,9 @@
 
 
 <!--- stats (end) -->
-<!--- stats (end) -->
+<!--- stats (end)<p align="Center">
+<img  alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
+</p> -->
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-Krothapalli&show_icons=true&locale=en&layout=compact" alt="Sami-Krothapalli" /></p>
 
