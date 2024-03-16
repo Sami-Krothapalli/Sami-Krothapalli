@@ -28,7 +28,7 @@
 
 - 👯 I’m looking to collaborate on any projects or hackathons that I deem interesting to me
 
-- 🤝 I’m looking for help with learning about ML concepts, DevOps, Cloud Services
+- 🤝 I’m looking for help with learning about ML concepts, DevOps, Cloud Services <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
 
 - 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development
 
