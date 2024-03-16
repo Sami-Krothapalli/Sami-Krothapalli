@@ -15,7 +15,7 @@
 <h3 align="center">Student at the University of Waterloo</h3>   
 <p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, passionate about data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
-<p align="Center"><img src="https://www.codedex.io/api/petStatus?user=Kpalli" width="50px"/>   <img src="https://visitcount.itsvg.in/api?id=Sami-Krothapalli&label=Profile%20Views&color=11&icon=0&pretty=true" /><img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
+<p align="Center"><img src="https://www.codedex.io/api/petStatus?user=Kpalli" width="50px"/>  <img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
 
 
 
@@ -96,6 +96,7 @@
 </p>
 
 
+<!--- stats (end) -->
 <!--- stats (end) -->
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-Krothapalli&show_icons=true&locale=en&layout=compact" alt="Sami-Krothapalli" /></p>
