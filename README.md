@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mode&size=23&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sami+Krothapalli;I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Aspiring++Developer%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Aspiring++Data+Scientist++%F0%9F%93%8A;Creatively+Building+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sami+Krothapalli;I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Aspiring++Developer%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Aspiring++Data+Scientist++%F0%9F%93%8A;Creatively+Building+Solutions)](https://git.io/typing-svg)
   
 </div>
 
