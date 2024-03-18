@@ -34,10 +34,14 @@
 
 - 📫 How to reach me **2krothapasam@gmail.com** or **skrothap@uwaterloo.ca.**
 
-**I like my coffee how I like my code: Constantly refilling and refactoring** 
 
-<h3>What I have been up to:</h3>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I+like+my+coffee+how+I+like+my+code:+Constantly+refilling+and+refactoring&type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+I+have+been+up+to...)](https://git.io/typing-svg)
 -  [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
 
 -  [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
@@ -49,29 +53,40 @@
   <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=2" />
 </p>
 
-### Languages:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Languages+)](https://git.io/typing-svg)
+
 | Python | R | JavaScript | C# | Java | HTML/CSS | GO |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) |
 
 
-### Libraries & Frameworks:
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Libraries+%26+Frameworks%3A)](https://git.io/typing-svg)
 
 | TensorFlow | Langchain | NumPy | Pandas | Scikit-learn | .NET CORE | Spring | Bootstrap | Chart.js |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | [![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/> |
 
 
-### Developer Tools:
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Developer+Tools%3A)](https://git.io/typing-svg)
 
 | PostgreSQL | Git | Jira | Confluence | GCP | Docker | Postman | Latex | Maven | Vercel
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="40" height="40"/> | [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
 
 
+---
 
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats 
+<p>
+  
+</p>
+
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Github+Stats)](https://git.io/typing-svg)
 
 <!--- stats & Trophy (start) -->
 
