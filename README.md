@@ -17,9 +17,8 @@
 <p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, passionate about data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
 <p align="Center"><img src="https://www.codedex.io/api/petStatus?user=Kpalli" width="50px"/>
-  <img align="center" src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Visitors&color=a66dc7&style=plastic" alt="Profile visitor" />
  <img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
-
 
 
 - 🔭 I’m currently working on Smartletter, an automated cover letter generator.
@@ -28,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on any projects or hackathons that interest me.
 
-- 🤝 I’m looking for help with learning about ML concepts, DevOps, Cloud Services. <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
+- 🤝 I’m looking for help with learning about ML concepts, DevOps, and Cloud Services. <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
 
 - 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development.
 
@@ -115,7 +114,8 @@
 
 
 <!--- stats (end) -->
-<!--- stats (end)<p align="Center">
+<!--- stats (end)![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+<p align="Center">
 <img  alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
 </p> -->
 
