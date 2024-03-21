@@ -13,7 +13,7 @@
 
 
 ---
-<h3 align="center" colour="purple">Student at the University of Waterloo</h3>   
+<h3 align="center" colour="purple">Student at the University of Waterloo</h3>    
 <p align="center">**I'm a Statistics and Computational Mathematics student at the University of Waterloo, passionate about data science, machine learning, and full-stack development. My journey in tech has led me through various roles, from backend software development to full-stack development, where I've engineered solutions that enhance user experiences and streamline operations.**</p>
 
 <p align="Center"><img src="https://www.codedex.io/api/petStatus?user=Kpalli" width="50px"/>
@@ -40,7 +40,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+I+have+been+up+to...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+I+have+been+up+to...)](https://git.io/typing-svg) 
 -  [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
 
 -  [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
@@ -61,7 +61,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Libraries+%26+Frameworks%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Libraries+%26+Frameworks%3A)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
 
 | TensorFlow | Langchain | NumPy | Pandas | Scikit-learn | .NET CORE | Spring | Bootstrap | Chart.js |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -102,15 +103,59 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sami-Krothapalli&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Krothapalli&theme=aura_dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
 </tr>
 </table>
 
-<p align="Center">
-  <a href="https://github.com/Sami-Krothapalli">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sami-Krothapalli&theme=moonlight" alt="Sami Krothapalli's GitHub Contribution"/>
-  </a>
-</p>
+
+ 
+<div align="center">
+
+  <details>
+    <summary>
+        More Stats
+    </summary>  <a href="https://github.com/Sami-Krothapalli">
+      <table align="center">
+        <tr border="none">
+          <td width="50%" align="center">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sami-Krothapalli&theme=moonlight" alt="Sami Krothapalli's GitHub Contribution"/>
+          </td>
+      </table>
+  </details>
+</div>
+
+      
+---
+
+<div align="center">
+  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Currently+Vibing+To+🎧)](https://git.io/typing-svg)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=a66dc7&interchange=true&bar_color=a66dc7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&redirect=true) 
+
+</div>
+
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=My+Code+Cycle)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+
+</div>
+
+
 
 
 <!--- stats (end) -->
