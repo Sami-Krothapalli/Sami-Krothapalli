@@ -1,7 +1,7 @@
 
 
 <p align="Center">
-  <img src="theroom.jpg" alt="room" width="100%"/>
+  <img src="theroom.jpg" alt="room" width="80%"/>
 </p>
 
 
