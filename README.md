@@ -39,15 +39,6 @@
 
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+I+have+been+up+to...)](https://git.io/typing-svg) 
--  [Tectonics AI Project](https://docs.google.com/presentation/d/1EWjKo3yUzCzvJ21BpL3S0N8YC04TO4K2/edit#slide=id.)
-
--  [Cybersecurity Club Website](https://ctf.uwaterloo.ca/)
-
--  [Network Anomaly Detection](https://wat-ai.github.io/cyber-security-interactive_web_demos/index.html)
-
-
 <p align="Center">
   <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=2" />
 </p>
