@@ -119,18 +119,7 @@
       
 ---
 
-<div align="center">
-  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Currently+Vibing+To+🎧)](https://git.io/typing-svg)
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=a66dc7&interchange=true&bar_color=a66dc7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&redirect=true) 
-
-</div>
-
-
----
 
 <div align="center">
 
@@ -149,7 +138,21 @@
 
 
 
-<!--- stats (end) -->
+<!--- stats (end) 
+
+
+<div align="center">
+  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Currently+Vibing+To+🎧)](https://git.io/typing-svg)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=a66dc7&interchange=true&bar_color=a66dc7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&redirect=true) 
+
+</div>
+
+
+----->
 <!--- stats (end)![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 <p align="Center">
 <img  alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
