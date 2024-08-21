@@ -20,9 +20,6 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Visitors&color=a66dc7&style=plastic" alt="Profile visitor" />
  <img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
 
-
-- 🔭 I’m currently working on Smartletter, an automated cover letter generator.
-
 - 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms**, **Computational Statistics and Data Analysis.**
 
 - 👯 I’m looking to collaborate on any projects or hackathons that interest me.
