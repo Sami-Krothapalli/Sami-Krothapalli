@@ -18,35 +18,31 @@
 
 <p align="Center"><img src="https://www.codedex.io/api/petStatus?user=Kpalli" width="50px"/>
   <img align="center" src="https://komarev.com/ghpvc/?username=Sami-Krothapalli&label=Visitors&color=a66dc7&style=plastic" alt="Profile visitor" />
- <img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
+<img src="https://media.tenor.com/6nHb-yHC2pkAAAAj/bulbasaur.gif" width="55px" /> </p>
+ <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
+ 
 
-- 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms**, **Computational Statistics and Data Analysis.**
 
+- 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms**, **Computational Statistics and Data Analysis.** 
 - 👯 I’m looking to collaborate on any projects or hackathons that interest me.
-
-- 🤝 I’m looking for help with learning about ML concepts, DevOps, and Cloud Services. <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
-
+- 🤝 I’m looking for help with learning about ML concepts, DevOps, and Cloud Services.
 - 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development.
 
 - 📫 How to reach me **2krothapasam@gmail.com** or **skrothap@uwaterloo.ca.**
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I+like+my+coffee+how+I+like+my+code:+Constantly+refilling+and+refactoring&type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 
 ---
-<p align="Center">
+<!---<p align="Center">
   <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=2" />
-</p>
+</p>--->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Languages+)](https://git.io/typing-svg)
 
 | Python | R | JavaScript | C# | Java | HTML/CSS | GO |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) |
-
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=a66dc7&repeat=false&random=false&width=435&lines=Libraries+%26+Frameworks%3A)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
