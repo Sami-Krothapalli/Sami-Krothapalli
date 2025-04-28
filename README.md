@@ -22,12 +22,6 @@
  <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
  
 
-
-- 🌱 I’m currently learning **Langchain**, **Data Structures and Algorithms**, **Computational Statistics and Data Analysis.** 
-- 👯 I’m looking to collaborate on any projects or hackathons that interest me.
-- 🤝 I’m looking for help with learning about ML concepts, DevOps, and Cloud Services.
-- 💬 Ask me about *Programming, Cybersecurity, Machine Learning, Full-Stack Development.
-
 - 📫 How to reach me **2krothapasam@gmail.com** or **skrothap@uwaterloo.ca.**
 
 
